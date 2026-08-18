@@ -13,7 +13,7 @@ This file describes your project. By default, all your code should live in the `
 
 ## What goes in `src/`?
 
-This is where all of your Acadia files live. It is best to start with a file called `src/Main.db`. As you work through [the official guide](https://guide.acadia.engineering/), you can put the code examples in that `src/Main.db` file.
+This is where all of your Acadia files live. It is best to start with a file called something like `src/Backend.db`. As you work through [the examples](https://github.com/acadia-engineering/examples), you can put the code examples in that `src/Backend.db` file.
 
 
 ## How do I run it?
