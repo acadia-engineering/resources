@@ -51,8 +51,8 @@ I wanted `acadia init` to generate as little code as possible. It is mainly mean
 
 ```bash
 # Note: This particular repo has not been created yet! In the spirit of posting more frequently,
-# I am trying to break my work into independently publishable chunks. So this particular repo
-# should become available in the next few weeks!
+# I am trying to break my work into independently publishable chunks. So I will set this repo up
+# sometime in the next few weeks.
 git clone https://github.com/evancz/acadia-todomvc.git
 ```
 
